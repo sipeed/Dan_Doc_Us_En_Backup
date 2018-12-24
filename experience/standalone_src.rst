@@ -129,19 +129,19 @@ If it is in windows system，you can burn the binary file by a software.We need 
 
 Open the software，As shown in the red circle in the figure, click and select the path where the binary file is located.
 
-.. figure:: http://pgeza64pd.bkt.clouddn.com/bin_path.png
+.. figure:: https://fdvad021asfd8q.oss-cn-hangzhou.aliyuncs.com/Sipeed_M1_hardware/kflash_path.jpg
    :width: 250px
    :align: center
   
 Select communication serial port
 
-.. figure:: http://pgeza64pd.bkt.clouddn.com/device.png
+.. figure:: https://fdvad021asfd8q.oss-cn-hangzhou.aliyuncs.com/Sipeed_M1_hardware/kflash_dev.jpg
    :width: 250px
    :align: center
 
 Set baud rate to 2000000
 
-.. figure:: http://pgeza64pd.bkt.clouddn.com/btr.png
+.. figure:: https://fdvad021asfd8q.oss-cn-hangzhou.aliyuncs.com/Sipeed_M1_hardware/kflash_rate.jpg
    :width: 250px
    :align: center
 

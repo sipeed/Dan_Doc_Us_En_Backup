@@ -5,7 +5,7 @@ Sipeed M1, an embedded AI development platform.
 
 Lichee Dan is an excellent open source AI development kit in China. It aims to promote AI-related development and education, and integrates Micropython to make development no longer difficult.
 
-.. figure:: http://pgeza64pd.bkt.clouddn.com/dan-board.jpg
+.. figure:: https://fdvad021asfd8q.oss-cn-hangzhou.aliyuncs.com/Sipeed_M1_hardware/Sipeed_M1.jpg
   :width: 500px
   :align: center
   
@@ -35,7 +35,7 @@ What’s amazing is that Sipeed M1 also has
 - Secure Hash Algorithm Accelerater (SHA256 Accelerater)  
 
 |  
-.. figure:: http://pgeza64pd.bkt.clouddn.com/dan-core-borad.jpg
+.. figure:: https://fdvad021asfd8q.oss-cn-hangzhou.aliyuncs.com/Sipeed_M1_hardware/Maix_core.jpg
   :width: 500px
   :align: center
   
@@ -65,7 +65,7 @@ Sipeed M1's onboard peripherals
 - Onboard high speed DAC
 - Can be used with microphone array expansion board for speech recognition, beamforming, sound field imaging
 
-.. figure:: http://pgeza64pd.bkt.clouddn.com/dan-pin.png
+.. figure:: https://fdvad021asfd8q.oss-cn-hangzhou.aliyuncs.com/Sipeed_M1_hardware/Maix_core_pin.jpg
   :width: 500px
   :align: center
   
